@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Demian Sanchez also known as @AbodA
+- 👀 I’m interested in all things technology with current focus on multy cloud orchestration. 
+- 🌱 I’m currently learning the ins and outs of the three mayor cloud providers.
+- 💞️ I’m looking to collaborate on any project I can contribute value.
+- 📫 How to reach me try demian.app/msg (it will be ready soon enough I hope).
